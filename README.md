@@ -1,2 +1,3 @@
 # hello-world
-Just another repo
+
+Satya here, a data scientist trying to learn new things.
